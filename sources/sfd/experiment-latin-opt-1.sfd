@@ -23,7 +23,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1443542790
-ModificationTime: 1456488875
+ModificationTime: 1456496422
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -198,7 +198,7 @@ Encoding: 110 110 2
 GlifName: uni006E_
 Width: 912
 VWidth: 79
-Flags: HMWO
+Flags: HMW
 LayerCount: 3
 Back
 SplineSet
